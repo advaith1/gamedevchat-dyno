@@ -22,11 +22,8 @@
 {!purge $1 @Chewbotcca}
 {!purge $1 @TypicalBot}
 {!purge 21 @Dyno}
-```fix
-Use .clean to clear up Dyno's outputs```
-**.superclean <number of messages>**
 ```css
 Chat commands and outputs cleaned!```
 {delete}
 {!clean}
-{!clean}
+
