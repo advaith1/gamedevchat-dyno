@@ -1,4 +1,5 @@
 {require:serverMod}
+{silent}
 {!purge startswith .}
 {!purge startswith /}
 {!purge startswith ;;}
