@@ -14,7 +14,7 @@ Use `.help` to send you the standard commands list.
 ***Miscellaneous***
 -`.search <what you want to search>` (Search google, when `.google` doesn't work.)
 ***Fusion specific***
--`.clickwiki (Displays info about ClickWiki commands.)
+-`.clickwiki` (Displays info about ClickWiki commands.)
 -`.extlist` (Displays Click Bot's list of extension lists, when Click Bot's down.)
 -`.shaders` (Displays shader lists.)
 ***Coming soon***
