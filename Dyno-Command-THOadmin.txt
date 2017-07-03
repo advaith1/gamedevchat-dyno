@@ -1,0 +1,10 @@
+{delete}
+{require:serverAdmin}
+```diff
+++Admin Commands++
+-.superclean <amount> (Clean bots :O)
+-.commandban <@user> <@role> (Bans a user from using commands)
+-.commandunban <@user> <@role> (Allows a user to use commands)
+-.demote <@user> <@role> (demotes from any role)
+-.promote <@user> <@role> (Promotes a user to any role)
+-Not all commands work yet```
