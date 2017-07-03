@@ -1,6 +1,3 @@
-{silent}
-{delete}
-{dm}
 **{user} The** `{server}` is on update: **2**
 ```fix
 -Server Update 3 progress: 68%```
@@ -10,3 +7,5 @@
 `Update 2:` -Added custom commands, promotion system, added ban system.
 `Update 3:` Coming soon!
 **Server updates provided by:** `Olybear9 and Advaith`
+{delete}
+{dm}
