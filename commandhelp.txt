@@ -1,6 +1,7 @@
 {delete}
 {dm}
-**{user} here are a list of commands to use**
+**{user} here are a list of custom commands to use.**
+Use `.help` to send you the standard commands list.
 ***Moderation/Server related***
 -`.commandhelp` (brings this menu up)
 -`.serverupdates` (server custom command updates)
@@ -8,14 +9,14 @@
 -`.mod` (Lists moderation commands)
 -`.admin` (admin only commands)
 -`.subscribe` (subscribe to recieve updates)
--`.extlist` (Server extension)
--`.enter` (Invite to Fanthom's server)
+-`.enter` (Can only be used in #the-fanthom-tollbooth. Invites you to Fanthom City, the ~~fictional~~ city in the Fanthom vs. Super Frelon comics.)
 -`.request <@(mod name or admin name)> <what you want to request>` (Request anything to a certain mod or admin)
 ***Miscellaneous***
--`.clickwikisearch <what you want to search>` (Searches "Click wiki")
--`.clickwikiforcesearch <what you want to search>` (forces results from "Click wiki")
--`.search <what you want to search>` (Search google)
--`.shaders` (Experimental)
+-`.search <what you want to search>` (Search google, when `.google` doesn't work.)
+***Fusion specific***
+-`.clickwiki (Displays info about ClickWiki commands.)
+-`.extlist` (Displays Click Bot's list of extension lists, when Click Bot's down.)
+-`.shaders` (Displays shader lists.)
 ***Coming soon***
 -`.partners` (shows a list of server partners)
 -`.apply` (Apply for administrator)
