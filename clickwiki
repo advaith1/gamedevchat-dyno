@@ -11,6 +11,5 @@ Forces a search for that query. Replace `query` with what you want to search. It
 Posts a page.. Replace `query` with the page you want. It will post a direct link to the page. If there is no matching page, it will display an error.
 
 ```diff
--Note: Spaces are not supported. To find a page with a space in the name, use _ instead of the space.```
-
-//written by advaith1
+-Note: If there's a problem with the URL, use _ instead of the space, if there is one.
++Made by @advaith#9121.```
