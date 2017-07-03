@@ -1,7 +1,7 @@
 {delete}
 {dm}
-**```css
-{user} here are a list of custom commands to use.```**
+**{user}```css
+Here are a list of custom commands to use.```**
 Use `.help` to send you the standard commands list.
 ***```diff
 -Moderation/Server related```***
