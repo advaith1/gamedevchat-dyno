@@ -1,5 +1,5 @@
 {silent}
-{dm}
+{dm:$1}
 **The staff member, {user}, accepted your request;** `$2+` on the {server}!
 ```css
 Congratulations!```
