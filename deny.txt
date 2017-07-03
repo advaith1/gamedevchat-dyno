@@ -1,3 +1,0 @@
-{delete}
-{dm:$1}
-**Hello, {user} on the {server}, denied your request:** `$2+`
