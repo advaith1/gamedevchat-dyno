@@ -1,16 +1,6 @@
 {require:serverMod}
 {silent}
-{!purge startswith .}
-{!purge startswith /}
-{!purge startswith ;;}
-{!purge startswith o!}
-{!purge startswith ~>}
-{!purge startswith %^}
-{!purge startswith $$}
-{!purge startswith $}
-{!purge startswith =}
-{!purge startswith t@}
-{!purge startswith t!}
+{!purge startswith .|/|;;|o!|~>|%^|$$|$|=|t@|t!}
 {!purge startswith @Septapus}
 {!purge startswith @Oxyl}
 {!purge $1 @Septapus}
