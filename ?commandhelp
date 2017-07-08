@@ -1,26 +1,26 @@
 {delete}
 {dm}
 **{user} Here are a list of custom commands to use.**
-Use `.help` to send you the standard commands list.
+Use `?help` to send you the standard commands list.
 ***Moderation/Server related***
--`.commandhelp` (brings this menu up)
--`.serverupdates` (server custom command updates)
--`.report <@(admin name)> <@(user name)> <reason>` (reports a user to a admin of your choice) 
--~~`.mod` (Lists moderation commands)~~
--~~`.admin` (admin only commands)~~
--~~`.subscribe` (subscribe to recieve updates)~~
--`.request <@(mod name or admin name)> <what you want to request>` (Request anything to a certain mod or admin)
+-`?commandhelp` (brings this menu up)
+-`?serverupdates` (server custom command updates)
+-`?report <@(admin name)> <@(user name)> <reason>` (reports a user to a admin of your choice) 
+-~~`?mod` (Lists moderation commands)~~
+-~~`?admin` (admin only commands)~~
+-~~`?subscribe` (subscribe to recieve updates)~~
+-`?request <@(mod name or admin name)> <what you want to request>` (Request anything to a certain mod or admin)
 ***Miscellaneous***
--`.search <what you want to search>` (Search google, when `.google` doesn't work.)
+-`?search <what you want to search>` (Search google, when `.google` doesn't work.)
 ***Fusion specific***
--`.clickwiki` (Displays info about ClickWiki commands.)
--`.extlist` (Displays Click Bot's list of extension lists, when Click Bot's down.)
--`.shaders` (Displays shader lists.)
+-`?clickwiki` (Displays info about ClickWiki commands.)
+-`?extlist` (Displays Click Bot's list of extension lists, when Click Bot's down.)
+-`?shaders` (Displays shader lists.)
 ***Testing***
 -`?commandhelp-<argument>` Arguments: -s (silent) -a (public)
 ***Coming soon***
--`.partners` (shows a list of server partners)
--`.apply` (Apply for administrator)
+-`?partners` (shows a list of server partners)
+-`?apply` (Apply for administrator)
 **```css
 Credit for these commands go to:```**
 `Olybear9` and `advaith`!
