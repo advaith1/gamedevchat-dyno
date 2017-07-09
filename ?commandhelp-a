@@ -1,24 +1,21 @@
 {delete}
-**{user}```css
+***```css
 Here are a list of custom commands to use.```**
 Use `.help` to send you the standard commands list.
 
 ***```diff
 -Moderation/Server related```***-`.commandhelp` (brings this menu up)
--`.serverupdates` (server custom command updates)
--`.report <@(admin name)> <@(user name)> <reason>` (reports a user to a admin of your choice) 
--~~`.mod` (Lists moderation commands)~~
--~~`.admin` (admin only commands)~~
--~~`.subscribe` (subscribe to recieve updates)~~
--`.request <@(mod name or admin name)> <what you want to request>` (Request anything to a certain mod or admin)
+-`?serverupdates` (server custom command updates)
+-`?report <@(admin name)> <@(user name)> <reason>` (reports a user to a admin of your choice) 
+-~~`?mod` (Lists moderation commands)~~
+-~~`?admin` (admin only commands)~~
+-~~`?subscribe` (subscribe to recieve updates)~~
+-`?request <@(mod name or admin name)> <what you want to request>` (Request anything to a certain mod or admin)
 ***```diff
 -Miscellaneous```***-`.search <what you want to search>` (Search google, when `.google` doesn't work.)
-***```diff
--Fusion specific```***-`.clickwiki` (Displays info about ClickWiki commands.)
--`.extlist` (Displays Click Bot's list of extension lists, when Click Bot's down.)
--`.shaders` (Displays shader lists.)
+-`?commandhelp-a` Attribute for displaying command to the public.
 ***```diff
 -Coming soon```***-`.partners` (shows a list of server partners)
--`.apply` (Apply for administrator)
+-`?apply` (Apply for administrator)
 **```css
 Credit for these commands go to:```**`Olybear9` and `advaith`!
