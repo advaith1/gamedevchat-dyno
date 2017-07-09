@@ -1,5 +1,4 @@
 {delete}
-{require:$1}
 {silent}
 {choose:#6ae021;#cc0000;#00ffff;#3333ff;#33cc33;#cc00cc}
 {!rolecolor $1 {choice}}
