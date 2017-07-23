@@ -9,7 +9,7 @@ Use `?help` for the standard commands list.
 -`?commandhelp-a` (Brings this menu up in chat) 
 -`?beta` (Displays the beta version of commandhelp in chat) 
 -`?serverupdates` (Lists server updates) 
--`?setupfreeze` (Gives you instructions on how to set up `?freeze`) 
+-`?setupfreeze` (Helps you set up `?freeze`) 
 -`?freeze` (Freezes chat) [STAFF ONLY] 
 -`?unfreeze` (Unfreezes chat) [STAFF ONLY] 
 -`?commandban @user` (Bans a user from using commands) [STAFF ONLY] 
@@ -19,8 +19,8 @@ Use `?help` for the standard commands list.
 -`?logs` (Toggles log visibility) 
 -`?colorchange` (Randomly sets the color of specified role) [STAFF ONLY] 
 -`?request <staffmember> <request>` (Request something to a certain staff member) 
--`?stats` (Gives a link to Dyno CC's Carbonitex stats page) 
--`?subscribe` (Subscribe to Dyno CC's updates) 
+~~-`?stats` (Gives a link to Dyno CC's Carbonitex stats page)~~ 
+~~-`?subscribe` (Subscribe to Dyno CC's updates)~~
 **```diff
 -Fun```** 
 -`?blocked` (You can't unblock the Wumpus.) 
@@ -28,6 +28,7 @@ Use `?help` for the standard commands list.
 -`?waitwhat` (Wait, what?) -`?color` (Changes a role color, in dev) 
 -`?letterbox3` (Displays a 3 letter symmetrical word in a box. You must add spaces between each letter.) 
 -`?letterbox4` (Displays a 4 letter alternating word in a box. [Ex. nono] You must add spaces in between each letter.) 
+-`depress me` (:() (No prefix required)
 **```diff
 -Say```** 
 -`?embed` (Embeds a message) 
