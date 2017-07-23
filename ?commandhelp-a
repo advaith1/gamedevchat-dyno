@@ -1,11 +1,10 @@
 {delete} 
-{dm}
 ***```css
 Here is a list of custom commands for you to use.```*** 
 Use `?help` for the standard commands list. 
 **```diff
 -Moderation/Server Related```** 
--`?commandhelp` (Brings this menu up) 
+-`?commandhelp` (Brings this menu up in DMs) 
 -`?commandhelp-a` (Brings this menu up in chat) 
 -`?beta` (Displays the beta version of commandhelp in chat) 
 -`?serverupdates` (Lists server updates) 
